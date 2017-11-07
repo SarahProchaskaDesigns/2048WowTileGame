@@ -1,3 +1,3 @@
-# SeasonalWeatherApp
-Creates list of cities with weather data including temperatures, rainfall, and more based on month searched.
+# Web 2048 Wow Tile Game
+Web version of the popular mobile app game 2048 Wow.
 
